@@ -100,6 +100,7 @@ font-size: 12px;
       padding: 0px 0px 0px 50px;
 
   }
+
   .list li:nth-child(1):before{
       content: '';
       background: url('../logo/header-icons/bx_bx-map.svg') 0px 0px no-repeat;
